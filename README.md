@@ -1,4 +1,4 @@
-# LeetCode Cheatsheet
+# LeetCode ( DSA ) Cheatsheet
 
 This repository contains Python solutions to various LeetCode problems, organized by day. Each file includes the problem description, approach, and solution code.
 
@@ -19,6 +19,13 @@ This repository contains Python solutions to various LeetCode problems, organize
 13. **[Sum of Two Integers](13-Sum%20of%20Two%20Integers.py)** - Add two integers without + or - operators.
 14. **[Number of 1 Bits](14-Number%20of%201%20Bits.py)** - Count set bits in binary representation.
 15. **[Counting Bits](15-Counting%20Bits.py)** - Return array of bit counts for numbers 0 to n.
+16. **[Missing Number](16-Missing%20Number.py)** - Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
+17. **[Reverse Bits](17-Reverse%20Bits.py)** - Reverse bits of a given 32 bits signed integer.
+18. **[Sort Colors](18-%20Sort%20Colors%20.py)** - Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
+19. **[Merge Intervals](19-%20Merge%20Intervals.py)** - Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input.
+20. **[Find the Duplicate Number](20-Find%20the%20Duplicate%20Number.py)** - Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive. There is only one repeated number in nums, return this repeated number.
+21. **[Set Matrix Zeroes](21-Set%20Matrix%20Zeroes.py)** - Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
+22. **[Pascal's Triangle](22-Pascal's%20Triangle.py)** - In Pascal's triangle, each number is the sum of the two numbers directly above.
 
 ## Usage
 
