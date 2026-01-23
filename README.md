@@ -26,6 +26,23 @@ This repository contains Python solutions to various LeetCode problems, organize
 20. **[Find the Duplicate Number](20-Find%20the%20Duplicate%20Number.py)** - Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive. There is only one repeated number in nums, return this repeated number.
 21. **[Set Matrix Zeroes](21-Set%20Matrix%20Zeroes.py)** - Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
 22. **[Pascal's Triangle](22-Pascal's%20Triangle.py)** - In Pascal's triangle, each number is the sum of the two numbers directly above.
+23. **[Rotate Image](23-%20Rotate%20Image%20.py)** - Rotate the image by 90 degrees clockwise in-place.
+24. **[Next Permutation](24-%20Next%20Permutation.py)** - Implement next permutation, rearranging numbers into the lexicographically next greater permutation.
+25. **[Search a 2D Matrix](25-%20Search%20a%202D%20Matrix.py)** - Search for a target value in an m x n matrix.
+26. **[Reverse Pairs](26%20-%20Reverse%20Pairs%20.py)** - Count the number of reverse pairs in the array.
+27. **[4Sum](27%20-%204Sum.py)** - Find all unique quadruplets that sum to a target.
+28. **[Majority Element](28%20-%20Majority%20Element%20.py)** - Find the majority element that appears more than n/2 times.
+29. **[Majority Element II](29%20-%20Majority%20Element%20II%20.py)** - Find all elements that appear more than n/3 times.
+30. **[Longest Consecutive Sequence](30%20-%20Longest%20Consecutive%20Sequence%20.py)** - Find the length of the longest consecutive elements sequence.
+31. **[Maximum Product Subarray](31%20-%20Maximum%20Product%20Subarray%20.py)** - Find the contiguous subarray with the largest product.
+32. **[Partition to K Equal Sum Subsets](32%20-%20Partition%20to%20K%20Equal%20Sum%20Subsets%20.py)** - Determine if array can be partitioned into k subsets with equal sum.
+33. **[Partition to K Equal Sum Subsets](33%20-%20Partition%20to%20K%20Equal%20Sum%20Subsets%20.py)** - Determine if array can be partitioned into k subsets with equal sum.
+34. **[Spiral Matrix](34%20-%20Spiral%20Matrix%20.py)** - Return all elements of the matrix in spiral order.
+35. **[Trapping Rain Water](35%20-%20Trapping%20Rain%20Water%20.py)** - Compute how much water can be trapped after raining.
+36. **[First Missing Positive](36%20-%20First%20Missing%20Positive%20.py)** - Find the smallest missing positive integer.
+37. **[Top K Frequent Elements](37%20-%20Top%20K%20Frequent%20Elements%20.py)** - Find the k most frequent elements.
+38. **[Verifying an Alien Dictionary](38-%20Verifying%20an%20Alien%20Dictionary%20.py)** - Verify if words are sorted according to alien dictionary order.
+39. **[Find Pivot Index](39%20-%20Find%20Pivot%20Index%20.py)** - Find the pivot index where left sum equals right sum.
 
 ## Usage
 
